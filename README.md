@@ -8,4 +8,6 @@ Sample website with plenty of files for demos
 
 ###Copyright
 
+another sentence
+
 2016. ron yu
