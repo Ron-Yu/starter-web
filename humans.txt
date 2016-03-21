@@ -3,11 +3,11 @@
 
 # TEAM
 
-    Ron Yu Nicole 
+    Ron Yu Nicole
 
 # THANKS
 
-    <name>
+    All my students
 
 # TECHNOLOGY COLOPHON
 
